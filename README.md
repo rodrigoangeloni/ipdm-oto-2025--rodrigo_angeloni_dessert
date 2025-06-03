@@ -8,8 +8,6 @@
 
 Con cada clic, verás diferentes tipos de postres inspirados en las versiones de Android (Cupcake, Donut, Eclair, etc.) y ganarás más dinero a medida que avanzas.
 
-![Captura de pantalla de la aplicación](captura/Screenshot_20250602_212856.png)
-
 ## ✨ Características Principales
 
 - 🎂 **Variedad de Postres**: Desbloquea diferentes postres a medida que juegas
@@ -55,7 +53,7 @@ Este proyecto es parte del curso "Android Basics with Compose" y está diseñado
 
 ## 📱 Capturas de Pantalla
 
-[Imágenes de la aplicación aquí]
+![Captura de pantalla de la aplicación](captura/Screenshot_20250602_212856.png)
 
 ---
 
