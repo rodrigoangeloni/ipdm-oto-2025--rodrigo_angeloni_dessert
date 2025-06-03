@@ -1,6 +1,6 @@
 # 🍰 Postres Clicker 🍩
 
-![Android Basics with Compose badge](https://developer.android.com/courses/android-basics-compose/course-badge.svg)
+![Android Basics with Compose badge](https://developer.android.com/courses/android-basics-compose/images/hero-assets/compose-course-cluster.svg)
 
 ## 📱 Descripción del Proyecto
 
